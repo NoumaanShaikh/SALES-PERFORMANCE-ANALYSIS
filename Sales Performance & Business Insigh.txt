@@ -1,0 +1,64 @@
+ Sales Performance & Business Insights Dashboard
+
+Project Overview
+
+This project is an interactive Sales Performance Dashboard created using Microsoft Excel.
+
+The dashboard analyzes sales data to provide insights into revenue, profit, orders, quantity sold, product performance, regional performance, sales channels, and monthly revenue trends.
+
+The project demonstrates practical data analytics skills including data preparation, PivotTables, PivotCharts, KPI creation, data visualization, filtering, and interactive dashboard design.
+
+Objectives
+
+- Analyze overall sales and revenue performance
+- Track total revenue, profit, orders, and quantity sold
+- Identify top-performing product categories
+- Compare revenue across different regions
+- Analyze monthly revenue trends
+- Compare performance across sales channels
+- Identify the top 10 products by revenue
+- Provide an interactive dashboard using slicers
+
+Tools & Skills Used
+
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Slicers
+- Excel Tables
+- KPI Cards
+- Data Visualization
+- Data Analysis
+- Custom Number Formatting
+- Business Insights
+
+Dashboard Features
+
+KPIs
+- Total Revenue
+- Total Profit
+- Total Orders
+- Total Quantity Sold
+- Profit Margin
+
+Visualizations
+- Revenue by Category
+- Revenue by Region
+- Monthly Revenue Trend
+- Revenue by Channel
+- Top 10 Products by Revenue
+
+Interactive Filters
+- Region
+- Category
+- Channel
+
+Key Insights
+
+The dashboard allows users to quickly identify:
+
+- Which product categories generate the highest revenue
+- Which regions contribute the most to revenue
+- How revenue changes throughout the year
+- Which sales channels generate the most revenue
+- Which products are among the top revenue contributors
